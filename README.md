@@ -19,7 +19,7 @@ If you report an item, we store:
 - Your message  
 - The ID of the item reported  
 - Timestamp
-- Your email (disarded immediately after resolution)
+- Your email (discarded immediately after resolution)
 
 #### 1.3 Technical Data
 The App may collect non-personal technical data such as:
