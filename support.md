@@ -1,9 +1,30 @@
-# Plymouth History Vault – Support
+**Plymouth History Vault — Support**
 
-If you need help with the Plymouth History Vault app, you can contact support using the following methods:
+If you need help with the Plymouth History Vault app, you can reach support using the following methods:
 
-**Email support:** plymouthhistoryvault at gmail dot com  
-**Facebook group:** https://www.facebook.com/groups/455447842727807  
-**App issues or reports:** All submissions are manually reviewed before they appear in the app. Offensive or inappropriate content is removed within 24 hours and offending accounts are blocked from further submissions.
+📩 **Email Support**
+
+For general questions or technical issues:
+plymouthhistoryvault [at] gmail [dot] com
+
+👥 **Community & Discussions**
+
+Join the community Facebook group for announcements and user discussions:
+https://www.facebook.com/groups/455447842727807
+
+🛡 **Moderation & Reporting**
+
+All user submissions (images, documents, audio, or video) are manually reviewed before appearing in the app.
+If any inappropriate or offensive material is reported:
+
+It is reviewed within 24 hours
+
+Violating content is removed immediately
+
+Offending users are blocked from further submissions
+
+We aim to maintain a safe and respectful environment for all contributors.
+
+If you need further assistance, please contact us via the email above.
 
 
