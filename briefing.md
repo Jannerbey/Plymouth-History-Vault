@@ -3,12 +3,12 @@ Plymouth History — Discovery Circle
 
 Welcome — and thank you for being here.
 
-You are one of a small number of people invited to join the Plymouth History — Discovery Circle, a closed group helping shape something new, exciting, and quietly important for Plymouth’s historical future.
+You are one of a small number of people invited to join the Plymouth History Discovery Circle, a closed group helping shape something new, exciting, and quietly but uniquely important for Plymouth’s historical future.
 
 This is not an open programme.
-It’s a hand-picked circle chosen because you’re curious, thoughtful, and someone who genuinely cares about Plymouth’s heritage.
+It’s a chosen circle picked because you’re curious, thoughtful, and clearly someone who genuinely cares about Plymouth’s heritage.
 
-Nothing complicated. Nothing technical.
+Nothing complicated. Nothing technical. It's an App that gives a new way to access the history of our amazing city!
 Just simple participation that genuinely helps build something meaningful.
 
 🌟 What You’re Joining
@@ -34,9 +34,9 @@ Just explore.
 
 🧭 What We Ask of You
 
-Being part of the Discovery Circle means:
+Being part of the Discovery Circle means this:
 
-1. Install the app
+1. you install the app
 
 You’ll receive access to a private closed-test version.
 
@@ -45,9 +45,9 @@ You’ll receive access to a private closed-test version.
 Open it now and again. Browse. Tap things.
 See how it feels.
 
-3. Give feedback (always)
+3. Give feedback (as often or as little as you want)
 
-Just a few lines whenever something useful pops into your head:
+Just a line whenever something useful pops into your head:
 
 Something confusing
 
@@ -73,14 +73,14 @@ Please don’t share screenshots, details, or anything about the project outside
 
 Quick link (takes seconds):
 
-👉 Google Feedback Form
-https://docs.google.com/forms/d/e/1FAIpQLSdRformplaceholder/viewform
+👉 Feedback Form
+Details will follow later
 
 You can fill it in as often as you like — every little note helps.
 
 🤝 Why You Matter
 
-Plymouth’s history deserves a modern home.
+Plymouth’s history deserves a modern, expanding and updateable home.
 Something living, growing, and accessible to everyone.
 Not a closed archive. Not a forgotten cupboard.
 A living, breathing vault of Plymouth’s past.
