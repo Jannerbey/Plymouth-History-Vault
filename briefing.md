@@ -1,5 +1,8 @@
-Plymouth History — Discovery Circle
-<p align="center"> <img src="/mnt/data/logo-mark.png" width="180" alt="Plymouth History Vault Logo"/> </p>
+# **Plymouth History — Discovery Circle**
+
+<p align="center">
+  <img src="assets/phv-logo.png" width="180" alt="Plymouth History Vault Logo" />
+</p>
 
 Welcome — and thank you for being here.
 
