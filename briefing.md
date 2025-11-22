@@ -8,13 +8,16 @@ Welcome — and thank you for being here.
 
 You are one of a small number of people invited to join the Plymouth History Discovery Circle, a closed group helping shape something new, exciting, and quietly but uniquely important for Plymouth’s historical future.
 
+
 This is not an open programme.
 It’s a chosen circle picked because you’re curious, thoughtful, and clearly someone who, like me, genuinely cares about Plymouth’s heritage.
+
 
 Nothing complicated. Nothing technical. It's an App that gives a new way to access the history of our amazing city!
 Just simple participation that genuinely helps us build something meaningful.
 
-🌟 What You’re Joining
+
+🌟 **What You’re Joining**
 
 You’re stepping into the very first phase of a new Plymouth history experience — something entirely new that I’ve not announced publicly.
 
@@ -35,7 +38,7 @@ No strict tasks. No pressure. No deadlines.
 
 Just explore.
 
-🧭 What I Will Ask of You
+🧭 **What I Will Ask of You**
 
 Being part of the Discovery Circle means this:
 
@@ -72,7 +75,7 @@ Every message you send to me genuinely pushes the project forward.
 You’ll see things the public cannot and will not.
 Please don’t share screenshots, details, or anything about the project outside this group.
 
-📝 How to Send Feedback
+📝 **How to Send Feedback**
 
 Quick link (takes seconds):
 
@@ -81,7 +84,7 @@ Details will follow later but it will be a really simple feedback form
 
 You can fill it in as often as you like — every little note helps the overall project.
 
-🤝 Why You Matter
+🤝 **Why You Matter**
 
 Plymouth’s history deserves a modern, expanding and updateable home.
 Something living, growing, and accessible to everyone.
@@ -95,7 +98,7 @@ You’re shaping something that will eventually be used by thousands of people a
 This is important work.
 And it’s fun work.
 
-🎉 Welcome to the Discovery Circle
+🎉 **Welcome to the Discovery Circle**
 
 You’re not a tester.
 You’re a pioneer — the first wave.
