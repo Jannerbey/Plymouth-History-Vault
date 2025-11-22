@@ -17,6 +17,7 @@ Nothing complicated. Nothing technical. It's an App that gives a new way to acce
 Just simple participation that genuinely helps us build something meaningful.
 
 
+
 🌟 **What You’re Joining**
 
 You’re stepping into the very first phase of a new Plymouth history experience — something entirely new that I’ve not announced publicly.
@@ -37,6 +38,9 @@ That’s it.
 No strict tasks. No pressure. No deadlines.
 
 Just explore.
+
+
+
 
 🧭 **What I Will Ask of You**
 
@@ -75,14 +79,20 @@ Every message you send to me genuinely pushes the project forward.
 You’ll see things the public cannot and will not.
 Please don’t share screenshots, details, or anything about the project outside this group.
 
+
+
+
 📝 **How to Send Feedback**
 
 Quick link (takes seconds):
 
-👉 Feedback Form
+👉 Feedback
 Details will follow later but it will be a really simple feedback form
 
 You can fill it in as often as you like — every little note helps the overall project.
+
+
+
 
 🤝 **Why You Matter**
 
@@ -97,6 +107,9 @@ You’re shaping something that will eventually be used by thousands of people a
 
 This is important work.
 And it’s fun work.
+
+
+
 
 🎉 **Welcome to the Discovery Circle**
 
