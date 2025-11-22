@@ -16,7 +16,7 @@ It’s a chosen circle picked because you’re curious, thoughtful, and clearly 
 Nothing complicated. Nothing technical. It's an App that gives a new way to access the history of our amazing city!
 Just simple participation that genuinely helps us build something meaningful.
 
-
+<br><br>
 
 🌟 **What You’re Joining**
 
@@ -40,7 +40,7 @@ No strict tasks. No pressure. No deadlines.
 Just explore.
 
 
-
+<br><br>
 
 🧭 **What I Will Ask of You**
 
@@ -79,7 +79,7 @@ Every message you send to me genuinely pushes the project forward.
 You’ll see things the public cannot and will not.
 Please don’t share screenshots, details, or anything about the project outside this group.
 
-
+<br><br>
 
 
 📝 **How to Send Feedback**
@@ -92,7 +92,7 @@ Details will follow later but it will be a really simple feedback form
 You can fill it in as often as you like — every little note helps the overall project.
 
 
-
+<br><br>
 
 🤝 **Why You Matter**
 
@@ -108,7 +108,7 @@ You’re shaping something that will eventually be used by thousands of people a
 This is important work.
 And it’s fun work.
 
-
+<br><br>
 
 
 🎉 **Welcome to the Discovery Circle**
@@ -118,3 +118,7 @@ You’re a pioneer — the first wave.
 
 Thank you for stepping in.
 Join me and together let’s discover what Plymouth’s past can become next.
+
+<br><br>
+
+If you feel this is something you want to follow up, come and ask to join us here - https://www.facebook.com/groups/4711682579058558  <br><br> You may think that I'm not making this easy for you. I'm not! I only want those who are willing and able ;) 
