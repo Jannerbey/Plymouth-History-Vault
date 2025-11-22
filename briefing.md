@@ -9,14 +9,14 @@ Welcome — and thank you for being here.
 You are one of a small number of people invited to join the Plymouth History Discovery Circle, a closed group helping shape something new, exciting, and quietly but uniquely important for Plymouth’s historical future.
 
 This is not an open programme.
-It’s a chosen circle picked because you’re curious, thoughtful, and clearly someone who genuinely cares about Plymouth’s heritage.
+It’s a chosen circle picked because you’re curious, thoughtful, and clearly someone who, like me, genuinely cares about Plymouth’s heritage.
 
 Nothing complicated. Nothing technical. It's an App that gives a new way to access the history of our amazing city!
-Just simple participation that genuinely helps build something meaningful.
+Just simple participation that genuinely helps us build something meaningful.
 
 🌟 What You’re Joining
 
-You’re stepping into the very first phase of a new Plymouth history experience — something entirely new that we’ve not announced publicly.
+You’re stepping into the very first phase of a new Plymouth history experience — something entirely new that I’ve not announced publicly.
 
 You’ll be among the first people in the world to see it, use it, influence it, and shape how it grows.
 
@@ -35,11 +35,11 @@ No strict tasks. No pressure. No deadlines.
 
 Just explore.
 
-🧭 What We Ask of You
+🧭 What I Will Ask of You
 
 Being part of the Discovery Circle means this:
 
-1. you install the app
+1. You install the app
 
 You’ll receive access to a private closed-test version.
 
@@ -65,11 +65,11 @@ Something that looks wrong
 Anything unexpected
 
 Your feedback is gold dust.
-Every message you send genuinely pushes the project forward.
+Every message you send to me genuinely pushes the project forward.
 
 4. Keep everything private
 
-You’ll see things the public cannot.
+You’ll see things the public cannot and will not.
 Please don’t share screenshots, details, or anything about the project outside this group.
 
 📝 How to Send Feedback
@@ -77,15 +77,15 @@ Please don’t share screenshots, details, or anything about the project outside
 Quick link (takes seconds):
 
 👉 Feedback Form
-Details will follow later
+Details will follow later but it will be a really simple feedback form
 
-You can fill it in as often as you like — every little note helps.
+You can fill it in as often as you like — every little note helps the overall project.
 
 🤝 Why You Matter
 
 Plymouth’s history deserves a modern, expanding and updateable home.
 Something living, growing, and accessible to everyone.
-Not a closed archive. Not a forgotten cupboard.
+Not a closed archive. Not a forgotten cupboard or a dusty repository.
 A living, breathing vault of Plymouth’s past.
 
 You’re helping build that.
@@ -101,4 +101,4 @@ You’re not a tester.
 You’re a pioneer — the first wave.
 
 Thank you for stepping in.
-Let’s discover what Plymouth’s past can become next.
+Join me and together let’s discover what Plymouth’s past can become next.
