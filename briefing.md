@@ -121,4 +121,4 @@ Join me and together let’s discover what Plymouth’s past can become next.
 
 <br><br>
 
-If you feel this is something you want to follow up, come and ask to join us here - https://www.facebook.com/groups/4711682579058558  <br><br> You may think that I'm not making this easy for you and I'm not! I want the app to be above the ordinary and thererfore I only want those who are willing and who are also above ordinary ;) 
+If you feel this is something you want to follow up, come and ask to join us here - [Private Group](https://www.facebook.com/groups/4711682579058558) <br><br> You may think that I'm not making this easy for you and I'm not! I want the app to be above the ordinary and thererfore I only want those who are willing and who are also above ordinary ;) 
